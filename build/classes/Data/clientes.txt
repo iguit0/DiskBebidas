@@ -1,0 +1,2 @@
+12345687690;teste@teste.com;34943215670;Teste;01/01/1990
+142123;teste@teste.com;300000;Teste;10/10/2000

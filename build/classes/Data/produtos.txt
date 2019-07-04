@@ -1,0 +1,6 @@
+Brahma;Cerveja;500;4.55;true;350ml
+Coca-Cola;Refrigerante;1500;6.99;false;2.5L
+Orloff;Vodka;50;21.5;true;1L
+Crystal;Agua;200;1.5;false;250ml
+Teste;Teste Descricao;100;3.5;true;240mL
+Teste2;asidjaisd;100;3.4;true;250ML
